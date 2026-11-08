@@ -29,9 +29,9 @@ Dry beans are the most widely produced pulse crop, and seed quality strongly aff
 
 ## c. GitHub repository link
 
-**Repository:** `<paste your GitHub repository URL here>`
+**Repository:** `https://github.com/darshand-RoboticsAIDev/ML_Assignment`
 
-**Live Streamlit app:** `<paste your Streamlit Community Cloud URL here>`
+**Live Streamlit app:** `https://mlassignment-cqtfgtofbgczoybcncmazh.streamlit.app/`
 
 ```
 bean_classifier/
